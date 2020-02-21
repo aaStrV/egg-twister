@@ -1,0 +1,32 @@
+
+AsyncDelay.cpp,156
+AsyncDelay::AsyncDelay(AsyncDelay5,53
+void AsyncDelay::start(start9,100
+void AsyncDelay::stop(stop16,246
+bool AsyncDelay::isExpired(isExpired20,292
+
+AsyncDelay.h,146
+#define ASYNCDELAY_H2,21
+class AsyncDelay{AsyncDelay7,86
+  unsigned long timer;8,104
+  unsigned long start_millis;9,127
+  bool state;10,157
+
+defines.h,462
+#define DEFINES_H2,18
+#define DEBUG7,64
+#define PERIOD 9,79
+#define MAX_PERIOD 10,169
+#define PULSE_INTERVAL 11,245
+#define MAX_PULSE_INTERVAL 12,305
+#define LONG_PRESS_INTERVAL 13,363
+#define LONG_PRESS_ITERATION 14,422
+#define PERIOD_STEP 15,492
+#define OFFSET_STEP 16,566
+#define HYSTERESIS 17,625
+#define PIN_KEYES 22,707
+#define PIN_OUT_1 23,749
+#define DPRINT(29,933
+#define DPRINTLN(30,967
+#define DPRINT(32,1011
+#define DPRINTLN(33,1029
