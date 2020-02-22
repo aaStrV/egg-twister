@@ -1,15 +1,15 @@
 # egg-twister
 
 
-eggs-twister is a simple periodic signal generator
+### eggs-twister is a simple periodic signal generator
 
-|<----------------PERIOD----------------->|
-|<------Phase A------------>|<--Phase B-->|
-A___________________________B_____________A
+Period = PhaseA + PhaseB
 
-Phase A - output level is low
-Phase B - output level is high
+Phase A - output level is low, minutes
+Phase B - output level is high, seconds/10
 
 Screen:
-|*Period_*Impulse|
-| min:120<ds:299>|
+
+*Period_*Impulse
+
+min:120\<ds:299\>
