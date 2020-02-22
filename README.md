@@ -9,7 +9,6 @@ Phase A - output level is low, minutes
 Phase B - output level is high, seconds/10
 
 Screen:
-
-*Period_*Impulse
-
-min:120\<ds:299\>
+*Period|*Impulse
+--:|:--:
+min:120|\<ds:299\>
