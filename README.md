@@ -3,6 +3,8 @@
 
 #### eggs-twister is a simple periodic signal generator
 
+Uses 16x2 display and 5-keys panel
+
 Period = PhaseA + PhaseB
 
 - Phase A - output level is low, minutes
